@@ -76,7 +76,7 @@ Load the primary obstacle avoidance code  which uses the ultrasonic sensor to me
 
 DIAGRAM: https://acrobat.adobe.com/id/urn:aaid:sc:AP:4b5d0b07-2752-4cb8-a7df-fb8a70658779
 
-YOUTUBE VIDEO LINK:
+YOUTUBE VIDEO LINK: https://www.youtube.com/watch?v=Vpk5PH6QexA
 
 
 **Dc gear motor has an upper hand over ac gear motor as it allows a steady current and thereby a constancy on the desired speed. We wished to keep the robot easy to make and on a rudimentary level so Arduino uno was chosen over the complexities of other microcontroller like ESP32.**
